@@ -4,7 +4,7 @@ A repository for reviewing C language.
 
 ## Index
 
-- [x] Variable (22.3.8 ~ 22.3.9)
+- [x] Variable (22.3.7 ~ 22.3.8)
 - [ ] Loop
 - [ ] Conditional
 - [ ] Function
