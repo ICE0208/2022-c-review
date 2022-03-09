@@ -6,7 +6,7 @@ A repository for reviewing C language.
 
 - [x] Variable (22.3.7 ~ 22.3.8)
 - [x] Loop (22.3.8 ~ 22.3.9)
-- [ ] Conditional
+- [x] Conditional (22.3.9)
 - [ ] Function
 - [ ] Pointer
 - [ ] Array
