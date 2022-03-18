@@ -8,8 +8,8 @@ A repository for reviewing C language.
 - [x] Loop (22.3.8 ~ 22.3.9)
 - [x] Conditional (22.3.9)
 - [x] Function
+- [x] Array
 - [ ] Pointer
-- [ ] Array
 - [ ] Struct
 - [ ] File Input/Output
 - [ ] Etc.
