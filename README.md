@@ -9,7 +9,7 @@ A repository for reviewing C language.
 - [x] Conditional (22.3.9)
 - [x] Function
 - [x] Array
-- [ ] Pointer
+- [x] Pointer
 - [ ] Struct
 - [ ] File Input/Output
 - [ ] Etc.
