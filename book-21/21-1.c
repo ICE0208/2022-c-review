@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int ch;
 
     ch = getchar();
 
-    if (ch < 'a') {
-        ch = ch - ('A' - 'a');
+    if (ch > 'Z') {
+    } else {
+        ch += ('a' - 'A');
     }
 
     putchar(ch);
