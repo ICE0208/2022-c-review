@@ -10,6 +10,6 @@ A repository for reviewing C language.
 - [x] Function
 - [x] Array
 - [x] Pointer
-- [ ] Struct
+- [x] Struct
 - [ ] File Input/Output
 - [ ] Etc.
