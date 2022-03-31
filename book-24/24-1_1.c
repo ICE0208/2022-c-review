@@ -1,3 +1,6 @@
+// This File's Encoding: EUC-KR
+// 한글 파일 입출력용 소스코드
+
 #include <stdio.h>
 #include <conio.h>
 
